@@ -1,0 +1,28 @@
+{
+  "name": "stackvane-video-import-for-divi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Paste a list of YouTube, Vimeo or MP4 URLs and bulk-add them as slides to Divi's built-in Video Slider module.",
+  "scripts": {
+    "build": "webpack --mode=production && node toolchain/build-css.js && node toolchain/build-pot.js && node toolchain/build-json.js",
+    "build:css": "node toolchain/build-css.js",
+    "build:json": "node toolchain/build-json.js",
+    "build:pot": "node toolchain/build-pot.js",
+    "dev": "node toolchain/build-css.js && webpack --mode=development --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "@babel/preset-react": "^8.0.1",
+    "@playwright/test": "^1.62.1",
+    "archiver": "^8.0.0",
+    "babel-loader": "^10.1.1",
+    "clean-css": "^5.3.3",
+    "eslint": "^9.39.5",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "globals": "^17.11.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^7.2.2"
+  }
+}

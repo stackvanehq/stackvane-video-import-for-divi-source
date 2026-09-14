@@ -1,0 +1,389 @@
+# Copyright (C) 2026 StackVaneHQ
+# This file is distributed under the GPL-2.0-or-later license.
+msgid ""
+msgstr ""
+"Project-Id-Version: StackVane Video Import for Divi 1.0.0\n"
+"Report-Msgid-Bugs-To: https://www.stackvanehq.com/\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: toolchain/build-pot.js\n"
+"X-Domain: stackvane-video-import-for-divi\n"
+
+#: client/builder/extend-video-slider.jsx:1007
+msgid "Detail Level"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1013
+msgid "Free"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1016
+msgid "About 15 Most Recent Videos. No API Key."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1017
+msgid "Title And Thumbnail. No API Key."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1024
+msgid "API"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1027
+msgid "Full Playlist, With Durations And Views."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1028
+msgid "Adds Real Durations And View Counts."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1036
+msgid "No API Key Is Saved Yet, So This Will Use The Free Method. Add One Under"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1037
+msgid "Divi, Theme Options, StackVane Video Import for Divi"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1046
+msgid "Titles"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1056
+msgid "Name Each Slide"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1058
+msgid "Uses The Video Title As The Element Label, So The Layers Panel Is Readable."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1071
+msgid "Remove Emojis"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1079
+msgid "Remove Special Characters"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1087
+msgid "Title Case"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1097
+msgid "Posters"
+msgstr ""
+
+#. translators: %d: how many videos have no poster image.
+#: client/builder/extend-video-slider.jsx:1110
+msgid "Generate A Poster For %d Video"
+msgid_plural "Generate A Poster For %d Videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: client/builder/extend-video-slider.jsx:1120
+msgid "Grabs A Frame From Each File And Saves It To Your Media Library As The Overlay Image. Only Works For Files On This Site."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1137
+msgid "Fetching…"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1138
+msgid "Fetch Videos"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1146
+msgid "Past Imports"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1150
+msgid "Saving Is Turned Off Under Divi, Theme Options. Imports Are No Longer Recorded, And Anything Below Was Saved Before That."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1155
+msgid "Loading…"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1160
+msgid "Nothing Imported Yet. Your Imports Are Saved Here So You Can Add Them To Another Slider Later."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1169
+msgid "Playlist"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1170
+msgid "Videos"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1173
+msgid "Untitled Import"
+msgstr ""
+
+#. translators: %d: number of videos stored in this entry.
+#: client/builder/extend-video-slider.jsx:1177
+msgid "%d Video"
+msgid_plural "%d Videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: client/builder/extend-video-slider.jsx:1187
+msgid "Reimport"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1194
+msgid "Delete"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1208
+msgid "%d Ready To Import"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1213
+msgid "%d Skipped"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1222
+msgid "Append (%d)"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1223
+msgid "Append"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1227
+msgid "Replace All"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1233
+msgid "Drag To Reorder. Click A Title To Change It."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1248
+msgid "Reorder This Video"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1279
+msgid "Slide Title"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1299
+msgid "Remove This Video"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1300
+msgid "Remove"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1319
+msgid "Close"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1328
+msgid "Importing…"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:1330
+msgid "Import %d Video"
+msgid_plural "Import %d Videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: client/builder/extend-video-slider.jsx:137 src/Rest/ImportController.php:692
+msgid "Video"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:271 client/builder/extend-video-slider.jsx:298
+msgid "Request Failed."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:34
+msgid "Media Library"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:35
+msgid "External Videos"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:36
+msgid "History"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:557
+msgid "Paste A YouTube Playlist URL."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:562
+msgid "Paste At Least One Video URL."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:586 client/builder/extend-video-slider.jsx:688
+msgid "Already In This Slider."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:593 client/builder/extend-video-slider.jsx:703
+msgid "Listed Twice In This Playlist."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:594 src/Rest/ImportController.php:153
+msgid "Duplicate In The Pasted List."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:606
+msgid "None Of These Could Be Added. See The Reasons Below."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:612
+msgid "Could Not Fetch These Videos."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:639
+msgid "%d From Media Library"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:641
+msgid "%d Pasted URLs"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:709
+msgid "Selected Twice."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:714
+msgid "The Media Library Could Not Be Opened. Please Reload The Builder."
+msgstr ""
+
+#. translators: 1: number inserted, 2: number attempted.
+#: client/builder/extend-video-slider.jsx:863
+msgid "Only %1$d Of %2$d Videos Could Be Added. Try The Rest Again."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:886 client/builder/extend-video-slider.jsx:1350 client/builder/extend-video-slider.jsx:1393
+msgid "Bulk Import Videos"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:894
+msgid "Generating Poster %1$d Of %2$d."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:896
+msgid "Adding Video %1$d Of %2$d."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:905
+msgid "Reading The Playlist…"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:906
+msgid "Fetching Videos…"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:93 client/builder/extend-video-slider.jsx:942
+msgid "Choose Videos"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:930
+msgid "%d Video Added."
+msgid_plural "%d Videos Added."
+msgstr[0] ""
+msgstr[1] ""
+
+#: client/builder/extend-video-slider.jsx:937
+msgid "Source"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:945
+msgid "Pick As Many As You Like, Or Upload New Ones From The Same Window. Nothing Is Fetched And No API Key Is Needed."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:95
+msgid "Add To Slider"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:958
+msgid "URL List"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:967
+msgid "YouTube Playlist"
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:982
+msgid "The Playlist Must Be Public."
+msgstr ""
+
+#: client/builder/extend-video-slider.jsx:995
+msgid "One URL Per Line. YouTube, Vimeo And Direct MP4 Or WEBM Files."
+msgstr ""
+
+#: src/Rest/ImportController.php:114
+msgid "Too Many Imports In A Row. Wait A Moment And Try Again."
+msgstr ""
+
+#: src/Rest/ImportController.php:144
+msgid "Not A Recognised Video URL."
+msgstr ""
+
+#: src/Rest/ImportController.php:183
+msgid "Enter A Valid YouTube Playlist URL Or ID."
+msgstr ""
+
+#: src/Rest/ImportController.php:208
+msgid "No Videos Found In That Playlist."
+msgstr ""
+
+#: src/Rest/ImportController.php:244 src/Rest/ImportController.php:317
+msgid "Could Not Reach YouTube. Please Try Again."
+msgstr ""
+
+#: src/Rest/ImportController.php:254
+msgid "That Playlist Is Private Or Empty. Only Public Playlists Can Be Read Without An API Key."
+msgstr ""
+
+#: src/Rest/ImportController.php:325
+msgid "YouTube API Request Failed. Check The Playlist, And The API Key Under Theme Options."
+msgstr ""
+
+#: src/Rest/RestPolicy.php:22
+msgid "Your Session Expired. Please Refresh The Page And Try Again."
+msgstr ""
+
+#: src/Rest/RestPolicy.php:51
+msgid "You Are Not Allowed To Do This."
+msgstr ""
+
+#: src/UI/DiviNotice.php:32
+msgid "StackVane Video Import for Divi Needs Divi 5 (The Theme Or The Divi Builder Plugin) To Be Active. The Bulk Import Button Appears In The Builder Once Divi 5 Is Enabled."
+msgstr ""
+
+#: src/UI/PluginLinks.php:46
+msgid "Settings"
+msgstr ""
+
+#: src/UI/ThemeOptionsTab.php:39
+msgid "StackVane Video Import for Divi"
+msgstr ""
+
+#: src/UI/ThemeOptionsTab.php:55
+msgid "YouTube"
+msgstr ""
+
+#: src/UI/ThemeOptionsTab.php:60
+msgid "YouTube Data API Key"
+msgstr ""
+
+#: src/UI/ThemeOptionsTab.php:64
+msgid "Used By The Video Slider Bulk Importer To Fetch Full Video Titles, Thumbnails, Durations And View Counts From The YouTube Data API. Leave Empty To Use The Free Mode Instead, Which Reads oEmbed And Returns A Title And Thumbnail Only."
+msgstr ""
+
+#: src/UI/ThemeOptionsTab.php:70
+msgid "Save Import History"
+msgstr ""
+
+#: src/UI/ThemeOptionsTab.php:74
+msgid "Off By Default. Turn This On To Keep A Record Of Every Bulk Import, So A Playlist Can Be Added To Another Slider Later Without Fetching It Again. Turning It Back Off Stops New Records; Entries Already Saved Stay Until You Delete Them From The History Tab."
+msgstr ""
